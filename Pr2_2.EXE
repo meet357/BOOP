@@ -1,0 +1,12 @@
+#include<iostream.h>
+Int main()
+{
+int  x,y;
+Cout<<"enter y :-"<<endl;
+Cin>>y;
+Cout<<"enter x :-"<<endl;
+Cin>>x;
+Cout<<"value of x ="<<x<<endl;
+Cout<<"value of y ="<<y<<endl;
+return 0;
+}
